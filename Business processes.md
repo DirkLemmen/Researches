@@ -7,7 +7,12 @@ According to (Appian, z.d.): “A business process is a collection of linked tas
 Business process can be automated by software. For example the business processes in a restaurant can be easily automated. Processes like ordering food and sending the order to the kitchen can be automated with software, this replaces the work from a waiter.  
 
 ## Process related to the project
-In the group project we are building a software for a restaurant. This software automates the order process. With this automatization the process of ordering in the restaurant is more efficient, because there is less interaction with the waiter and orders are immediately send to the kitchen. This diagram visualizes the ordering process of the business:
+In the group project we are building a software for a restaurant. This software automates the order process. With this automatization the process of ordering in the restaurant is more efficient, because there is less interaction with the waiter and orders are immediately send to the kitchen. This diagram visualizes the ordering process of the business before automatization:
+
+[![business-process-unautomated.png](https://i.postimg.cc/L6wrVFtK/business-process-unautomated.png)](https://postimg.cc/rKGn8bZQ)
+
+
+This is how to process looks after automatization: 
 
 [![business-process.png](https://i.postimg.cc/y8wFfFgb/business-process.png)](https://postimg.cc/MnmMHfY7)
 
