@@ -23,17 +23,19 @@ According to (The 12 Agile Project Management Principles Explained, z.d.) this a
 ## What are Agile methodologies?
 Agile methodologies are different ways teams choose to follow Agile principles. The most popular methodology uses is Scrum.
 
-### Different Agile methodology
+### Different Agile methods
 - Scrum
 
-> Scrum is the most pupular framework. A team that uses this methodology is led by a Scrum Master. Scrum works in cycles of development called sprints, these sprints have a lenght varying between 1 and 4 weeks. Daily meetings where the team discusses tasks and obstacles.
+> Scrum is the most pupular framework. A team that uses this method is led by a Scrum Master. Scrum works in cycles of development called sprints, these sprints have a lenght varying between 1 and 4 weeks. Daily meetings where the team discusses tasks and obstacles.
 
 - Extreme programming (XP)
+> XP and Scrum share the most common concepts like: release planning, daily meetings, retrospective and other elements of the agile process. Aspects what makes XP different from scrum are: programming in pairs, code reviews and unit testing all code. With XP the team can easy handle requirement changes from the customers even when they are later in the development stage. One downside with XP is that the extreme focus on software developent can ensure some problems in other areas in development.
 
-> XP and Scrum share the most common concepts like: release planning, daily meetings, retrospective and other elements of the agile process. Aspects what makes XP different from scrum are: programming in pairs, code reviews and unit testing all code. 
 - Kanban
 
+> The Kanban method exists in a board or table called a Kanban board, this board shows the flow of the production. 
 > Deliverables are presented visually on a kanban board. This way the state of the process is visible for team members. This board shows every flow of the software development procedure. As the team proceeds further in the project the board changes.
+> With this method it is easy to view the status of all tasks in the project. One problem is that there are no timeframes in Kanban, because of this you can come across time problems.
 
 
 ## Scrum explanation
