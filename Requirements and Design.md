@@ -43,7 +43,7 @@ Age: 20
 ```
 Sem De Wilde
 
-Sem has viewed the menu page where customers land on. This page is used for ordering dishes.
+Sem has reviewed the menu landing page. This page is used for ordering dishes.
 
 Feedback: "I like the looks of it and the color scheme. The images of the dishes were displayed very well" 
 
@@ -53,7 +53,7 @@ Sem was very enthusiastic over the design. He thaught it looked good and it was 
 ```
 Jovi Simons
 
-Jovi has viewed the menu page where customers land on. This page is used for ordering dishes.
+Jovi has reviewed the menu landing page as well. This page is used for ordering dishes.
 
 Feedback: "I think the menu has a really modern feeling. For me it is very clear what actions I can perform on the page." 
 
