@@ -28,17 +28,36 @@ Sex: Men
 Age: 20
 ```
 
+```
+Name: Jovi Simons
+Sex: Men
+Age: 20
+```
+
 ### 5 Second testing
 
 
 
-### Observation in person testing
+### In person observation testing
+
 ```
 Sem De Wilde
 
-Sem has viewed the menu page where customers land on that use for ordering the menu
+Sem has reviewed the menu landing page. This page is used for ordering dishes.
 
 Feedback: "I like the looks of it and the color scheme. The images of the dishes were displayed very well" 
 
 Sem was very enthusiastic over the design. He thaught it looked good and it was clear for him how he can filter and order the dishes
+```
+
+```
+Jovi Simons
+
+Jovi has reviewed the menu landing page as well. This page is used for ordering dishes.
+
+Feedback: "I think the menu has a really modern feeling. For me it is very clear what actions I can perform on the page." 
+
+Jovi was very happy with the design. He thaught it looked modern and clear.
+One thing I mentioned is that he didn't know the bar with categories is scrollable.
+We discussed this and thaught an arrow should be an appropriate to let the user know it is scrollable.
 ```
