@@ -33,19 +33,54 @@ According to (Pappas, 2021):
 # Ethics
 
 ## What is ethics in software engineering?
+According to (uio, 2021):
+
+> Software engineering ethics can be approached from three directions. First, it can
+describe the activity of software engineers making practical choices that affect other
+people in significant ways. Second, it can be used to describe a collection of principles,
+guidelines, or ethical imperatives that guide or legislative action, and third, it can be used
+to name a discipline that studies the relationship between the other two senses of ethics.
+Software engineering ethics is clearly both an activity and a body of principles. The
+discipline of software engineering ethics that studies this activity and formalizes these
+principles, however, is in its infancy.
 
 ## Why is ethics important in software engineering? 
+> Ethics in software can help follow a professional behaviour in the workplace and online. Ethics are import to decide actions. It is important to follow ethics to prevent dilemmas and be proffesional. 
 
 ## What do you have to do as a software engineer to address ethical aspects in your work? 
+> As a software engineer it is required to follow ethics to work in a professional manner. According to (ACM Ethics, 2018) software engineers should follow Eight Principles: 
+
+> 1. PUBLIC – Software engineers shall act consistently with the public interest.
+
+> 2. CLIENT AND EMPLOYER – Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
+
+> 3. PRODUCT – Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
+
+> 4. JUDGMENT – Software engineers shall maintain integrity and independence in their professional judgment.
+
+> 5. MANAGEMENT – Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.
+
+> 6. PROFESSION – Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
+
+> 7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
+
+> 8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
 
 ## How do you know that your ethical considerations match with those of other software engineers? 
+> You should discuss each others view on ethics. This way you can confirm if your ethical considerations match, if they don't match then both have to adapt to each other and find a middle way. By doing this software engineers stay professional. 
 
 ## Which ethical aspects play a role in your project? 
-
-## Do you foresee ethical conflicts caused by your software? What kind of?  
+> We act in a professional manner to our stakeholder and have him updated on the project.
+> We speak up when we are stuck on something. By doing this we can help each other out and don't spend to much time on a problem.
 
 ## Can you do something to avoid or minimize these conflicts? 
+> To minimize conflicts software engineers should discuss a topic till its clear for everyone to prevent misunderstanding. 
+> Ask stakeholder and your colleagues feedback frequently
+
 
 # Sources
 * Pappas, S. (2021, 15 december). What is culture? Livescience.Com. Consulted on 17 december 2021, from https://www.livescience.com/21478-what-is-culture-definition-of-culture.html
 * Bruk, D. (2017, 2 november). The 30 Biggest Cultural Mistakes Americans Make Abroad. Best Life. Consulted on 17 december 2021, from https://bestlifeonline.com/major-cultural-mistakes/
+* Kalupahana, H. (2020, 14 mei). Importance of ethics for a software engineer. Nerdynaut. Geraadpleegd op 19 december 2021, van https://www.nerdynaut.com/importance-of-ethics-for-a-software-engineer
+* ACM Ethics. (2018, 19 december). Software Engineering Code - ACM Ethics. ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Geraadpleegd op 19 december 2021, van https://ethics.acm.org/code-of-ethics/software-engineering-code/
+* https://www.uio.no/studier/emner/matnat/ifi/INF3700/v12/undervisningsmateriale/Software%20engeneering%20ethics.pdf
