@@ -6,10 +6,29 @@ Cultural & Ethics
 According to (Pappas, 2021):
 > Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, cuisine, social habits, music and arts.
 
+> Culture is the way we behave trough basic concepts but have a different view on those concepts. Culture is inherited but also can be learned even if you aren't aware of it. You can have different feelings then other about what is good and what is bad.
+
 ## Which cultural aspects would you keep in mind when facing cultural differences? 
 > Is it good to keep in mind that the norms & values can be very different. When you are going to visit another country you should try to understand and embrace the cultural differences.
 
+> According to Hofdstede's theory this are the cultural aspects that create cultural differences:
+
+[![Hofstedes-Cultural-Dimensions.png](https://i.postimg.cc/j5VVJcs3/Hofstedes-Cultural-Dimensions.png)](https://postimg.cc/zLk2snHT)
+
 ## How can cultures be clustered?
+> Over the world there are multiple cultural clusters and they all have different characteristics. According to (Characteristics of Clusters, z.d.) Characteristics include: 
+
+> - Anglo - competitive and result-oriented
+> - Confucian Asia - result-driven, encourage group working together over individual goals
+> - Eastern Europe - forceful, supportive of co-workers, treat women with equality
+> - Germanic Europe - value competition & aggressiveness and are more result-oriented
+> - Latin America - loyal & devoted to their families and similar groups
+> - Latin Europe - value individual autonomy
+> - Middle East - devoted & loyal to their own people, women afforded less status
+> - Nordic Europe - high priority on long-term success, women treated with greater equality
+> - Southern Asia - strong family & deep concern for their communities
+> - Sub-Sahara Africa - concerned & sensitive to others, demonstrate strong family loyalty
+
 > Cultures are brought together in many different ways, one common way cultures are clustered together is in countries. Some countries bring together a lot of different cultures a so called multicultural society.
 
 ## Can you give examples for things going not as expected when interacting with people from other cultures? What and why went differently? 
@@ -29,6 +48,11 @@ According to (Pappas, 2021):
 
 ## What did you do to improve the group communications with respect to cultural differences? 
 > In our group we have one person that comes abroad. We adapted to this persons culture to speak in English when he is present. Also documentation files and messages in teams are in English so we can all understand each other. 
+
+# High and Low context
+Low context cultures are more focussed on achieving invidual success while high context cultures are more focussed on achieving success in a team. Below you can see the differences between high and low context cultures. 
+
+[![Low-Context-and-High-Context-Cultures.png](https://i.postimg.cc/T1QQ6VC3/Low-Context-and-High-Context-Cultures.png)](https://postimg.cc/p5hKQnww)
 
 # Ethics
 
@@ -83,4 +107,5 @@ principles, however, is in its infancy.
 * Bruk, D. (2017, 2 november). The 30 Biggest Cultural Mistakes Americans Make Abroad. Best Life. Consulted on 17 december 2021, from https://bestlifeonline.com/major-cultural-mistakes/
 * Kalupahana, H. (2020, 14 mei). Importance of ethics for a software engineer. Nerdynaut. Geraadpleegd op 19 december 2021, van https://www.nerdynaut.com/importance-of-ethics-for-a-software-engineer
 * ACM Ethics. (2018, 19 december). Software Engineering Code - ACM Ethics. ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Geraadpleegd op 19 december 2021, van https://ethics.acm.org/code-of-ethics/software-engineering-code/
+* Characteristics of Clusters. (z.d.). https://www.tlu.ee. Consulted on 21 december 2021, from https://www.tlu.ee/%7Esirvir/IKM/Leadership%20Dimensions/characteristics_of_clusters.html
 * https://www.uio.no/studier/emner/matnat/ifi/INF3700/v12/undervisningsmateriale/Software%20engeneering%20ethics.pdf
