@@ -35,7 +35,11 @@ Age: 20
 ```
 
 ### 5 Second testing
+For 5 second testing Owen created several issues on the issues page in this repository to execute the various 5 second tests. The links to these tests can be found below.
 
+- [Menu](https://github.com/DirkLemmen/Researches/issues/6)
+- [Edit dish dialog](https://github.com/DirkLemmen/Researches/issues/5)
+- [Live view screen](https://github.com/DirkLemmen/Researches/issues/4)
 
 
 ### In person observation testing
