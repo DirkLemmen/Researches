@@ -1,4 +1,9 @@
+<img src="https://allesovercrypto.nl/sites/default/files/2021-10/image-zijn-beste-ido-platforms-solana_0.jpg" />
+
 # Solana
+In this research the Solana blockchain is examined and we will be looking into if Solana is a good blockchain in general and if it is a good blockchain to write smartcontracts and build decentralized applications on. This research is interesting for people who are interested in crypto, Solana and blockchain developers. So is Solana a good blockchain to develop decentrailized applications on?
+
+# What is Solana?
 Solana is a high-performance blockchain supporting builders around the world creating crypto apps that scale today. Solana is a
 decentralized blockchain built to enable scalable, user-friendly apps, Solana can process more transactions and charges much lower
 gass fees then Ethereum. With Solana you can write smart contracts with ease and it is possible to trade in NFTS.
